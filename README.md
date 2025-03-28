@@ -1,4 +1,5 @@
-Análise de Vendas - Projeto 2 - Data Science Academy
+## Análise de Vendas - Projeto 2 - Data Science Academy
+
 Este repositório contém uma análise de dados de vendas, utilizando Python e as bibliotecas pandas, numpy, matplotlib e seaborn. O objetivo é explorar um dataset de vendas e responder as perguntas de negócios para a análise de desempenho de vendas.
 
 ## Perguntas de Negócio
