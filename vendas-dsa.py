@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-caminho = r"C:\Users\adm\Desktop\ads\curso\dados\dataset.csv"
+caminho = "dados\dataset.csv"
 
 # Carregar o dataset
 df_dsa = pd.read_csv(caminho)
